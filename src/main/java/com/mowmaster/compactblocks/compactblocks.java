@@ -1,5 +1,6 @@
 package com.mowmaster.compactblocks;
 
+import com.mowmaster.compactblocks.Vanilla.buildingblocks.cbBlocks;
 import com.mowmaster.compactblocks.events.ModEvents;
 import com.mowmaster.compactblocks.proxies.CommonProxy;
 import net.minecraftforge.common.MinecraftForge;
@@ -26,13 +27,13 @@ public class compactblocks
     @Mod.EventHandler
     public void preInit(FMLPreInitializationEvent event)
     {
-
+        cbBlocks.cbBlocksRegistry();
     }
 
     @Mod.EventHandler
     public void init(FMLInitializationEvent event)
     {
-
+        cbBlocks.regBlocks();
 
         ModEvents handler = new ModEvents();
         MinecraftForge.EVENT_BUS.register(handler);
