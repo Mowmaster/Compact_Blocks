@@ -1,0 +1,8 @@
+tile.compactblocks:compressed_cobblestone.compressed_cobblestone.name = "Compressed Cobblestone"
+tile.compactblocks:compressed_cobblestone.double_compressed_cobblestone.name = "Double Compressed Cobblestone"
+tile.compactblocks:compressed_cobblestone.tripple_compressed_cobblestone.name = "Tripple Compressed Cobblestone"
+tile.compactblocks:compressed_cobblestone.quardupple_compressed_cobblestone.name = "QuadruppleCompressed Cobblestone"
+tile.compactblocks:compressed_cobblestone.quintupple_compressed_cobblestone.name = "Quintupple Compressed Cobblestone"
+tile.compactblocks:compressed_cobblestone.sixtupple_compressed_cobblestone.name = "Sixtupple Compressed Cobblestone"
+tile.compactblocks:compressed_cobblestone.septupple_compressed_cobblestone.name = "Septupple Compressed Cobblestone"
+tile.compactblocks:compressed_cobblestone.octupple_compressed_cobblestone.name = "Octupple Compressed Cobblestone"
