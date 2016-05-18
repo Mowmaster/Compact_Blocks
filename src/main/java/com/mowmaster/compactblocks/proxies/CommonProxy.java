@@ -5,5 +5,8 @@ package com.mowmaster.compactblocks.proxies;
  */
 public class CommonProxy
 {
+    public void preInit()
+    {
 
+    }
 }

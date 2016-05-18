@@ -37,19 +37,7 @@ public class compactblocks
         GameRegistry.register(cbblockscc);
         GameRegistry.register(new cbBlocks(cbblockscc, cbCompressedCobble.types,true));
 
-
-
-        final Item item = Item.getItemFromBlock(compactblocks.cbblockscc);
-
-        for (int meta = 0; meta < 8; meta++)
-            ModelLoader.setCustomModelResourceLocation(item, meta, new ModelResourceLocation("compactblocks:"+ cbCompressedCobble.types[meta], "inventory"));
-
-        MinecraftForge.EVENT_BUS.register(this);
-
-
-
-
-
+        proxy.preInit();
     }
 
     @Mod.EventHandler

@@ -1,11 +1,11 @@
 
 
 #Compressed Cobblestone Blocks
-tile.compressed_cobblestone.compressed_cobblestone.name = Compressed Cobblestone
-tile.compressed_cobblestone.compressed_cobblestone_double.name = Double Compressed Cobblestone
-tile.compressed_cobblestone.compressed_cobblestone_tripple.name = Tripple Compressed Cobblestone
-tile.compressed_cobblestone.compressed_cobblestone_quadrupple.name = QuadruppleCompressed Cobblestone
-tile.compressed_cobblestone.compressed_cobblestone_quintupple.name = Quintupple Compressed Cobblestone
-tile.compressed_cobblestone.compressed_cobblestone_sixtupple.name = Sixtupple Compressed Cobblestone
-tile.compressed_cobblestone.compressed_cobblestone_septupple.name = Septupple Compressed Cobblestone
-tile.compressed_cobblestone.compressed_cobblestone_octupple.name = Octupple Compressed Cobblestone
+tile.compressed_cobblestone.cobblestone.name=Compressed Cobblestone
+tile.compressed_cobblestone.compressed_cobblestone_double.name=Double Compressed Cobblestone
+tile.compressed_cobblestone.compressed_cobblestone_tripple.name=Tripple Compressed Cobblestone
+tile.compressed_cobblestone.compressed_cobblestone_quadrupple.name=QuadruppleCompressed Cobblestone
+tile.compressed_cobblestone.compressed_cobblestone_quintupple.name=Quintupple Compressed Cobblestone
+tile.compressed_cobblestone.compressed_cobblestone_sixtupple.name=Sixtupple Compressed Cobblestone
+tile.compressed_cobblestone.compressed_cobblestone_septupple.name=Septupple Compressed Cobblestone
+tile.compressed_cobblestone.compressed_cobblestone_octupple.name=Octupple Compressed Cobblestone

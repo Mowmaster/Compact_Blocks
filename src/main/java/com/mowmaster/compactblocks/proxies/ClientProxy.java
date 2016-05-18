@@ -11,5 +11,13 @@ import net.minecraftforge.common.MinecraftForge;
 
 public class ClientProxy extends CommonProxy
 {
+    public void preInit()
+    {
+        final Item item = Item.getItemFromBlock(compactblocks.cbblockscc);
 
+        for (int meta = 0; meta < 8; meta++)
+            ModelLoader.setCustomModelResourceLocation(item, meta, new ModelResourceLocation("compactblocks:"+ cbCompressedCobble.types[meta], "inventory"));
+
+        MinecraftForge.EVENT_BUS.register(this);
+    }
 }
