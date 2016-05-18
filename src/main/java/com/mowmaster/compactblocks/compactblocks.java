@@ -4,6 +4,7 @@ import com.mowmaster.compactblocks.block.buildingblocks.cbBlocks;
 import com.mowmaster.compactblocks.block.buildingblocks.cbCompressedCobble;
 import com.mowmaster.compactblocks.events.ModEvents;
 import com.mowmaster.compactblocks.proxies.CommonProxy;
+import com.mowmaster.compactblocks.recipies.buildingblockRecipies;
 import net.minecraft.block.Block;
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 import net.minecraft.item.Item;
@@ -44,7 +45,7 @@ public class compactblocks
     public void init(FMLInitializationEvent event)
     {
 
-
+        buildingblockRecipies.bbR();
         ModEvents handler = new ModEvents();
         MinecraftForge.EVENT_BUS.register(handler);
     }
