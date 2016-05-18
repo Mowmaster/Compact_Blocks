@@ -1,21 +1,15 @@
-package com.mowmaster.compactblocks.Vanilla.buildingblocks;
+package com.mowmaster.compactblocks.block.buildingblocks;
 
-import com.mowmaster.compactblocks.reference.reference;
 import net.minecraft.block.Block;
-import net.minecraft.block.BlockBookshelf;
 import net.minecraft.block.material.Material;
 import net.minecraft.block.properties.IProperty;
 import net.minecraft.block.properties.PropertyEnum;
 import net.minecraft.block.state.BlockStateContainer;
 import net.minecraft.block.state.IBlockState;
-import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
 import net.minecraft.util.IStringSerializable;
-import net.minecraft.util.ResourceLocation;
-import net.minecraft.util.math.BlockPos;
-import net.minecraft.world.World;
 import net.minecraftforge.fml.relauncher.Side;
 import net.minecraftforge.fml.relauncher.SideOnly;
 
@@ -23,13 +17,13 @@ import java.util.List;
 
 public class cbCompressedCobble extends Block
 {
-    public static String[] types = new String[] { "compressed_cobblestone", "double_compressed_cobblestone", "tripple_compressed_cobblestone", "quadrupple_compressed_cobblestone", "quintupple_compressed_cobblestone", "sixtupple_compressed_cobblestone", "septupple_compressed_cobblestone", "octupple_compressed_cobblestone" };
+    public static String[] types = new String[] { "compressed_cobblestone", "compressed_cobblestone_double", "compressed_cobblestone_tripple", "compressed_cobblestone_quadrupple", "compressed_cobblestone_quintupple", "compressed_cobblestone_sixtupple", "compressed_cobblestone_septupple", "compressed_cobblestone_octupple" };
     public static final PropertyEnum<EnumType> VARIANT = PropertyEnum.<EnumType> create("variant", EnumType.class);
 
     public cbCompressedCobble() {
 
         super(Material.rock);
-        this.setUnlocalizedName(reference.MODID + ":" +"compressed_cobblestone");
+        this.setUnlocalizedName("compressed_cobblestone");
         this.setDefaultState(this.blockState.getBaseState().withProperty(VARIANT, EnumType.COMPRESSED));
         this.setRegistryName("compressed_cobblestone");
         this.setHardness(1.5f);
@@ -65,14 +59,14 @@ public class cbCompressedCobble extends Block
 
     public enum EnumType implements IStringSerializable {
 
-        COMPRESSED(0, "compressed_cobblestone"),
-        DOUBLE(1, "double_compressed_cobblestone"),
-        TRIPPLE(2, "tripple_compressed_cobblestone"),
-        QUADRUPPLE(3, "quadrupple_compressed_cobblestone"),
-        QUINTUPPLE(4, "quintupple_compressed_cobblestone"),
-        SIXTUPPLE(5,"sixtupple_compressed_cobblestone"),
-        SEPTUPPLE(6, "septupple_compressed_cobblestone"),
-        OCTUPPLE(7, "octupple_compressed_cobblestone");
+        COMPRESSED(0, "cobblestone"),
+        DOUBLE(1, "cobblestone_double"),
+        TRIPPLE(2, "cobblestone_tripple"),
+        QUADRUPPLE(3, "cobblestone_quadrupple"),
+        QUINTUPPLE(4, "cobblestone_quintupple"),
+        SIXTUPPLE(5,"cobblestone_sixtupple"),
+        SEPTUPPLE(6, "cobblestone_septupple"),
+        OCTUPPLE(7, "cobblestone_octupple");
 
         private static final EnumType[] META_LOOKUP = new EnumType[values().length];
         private final int meta;

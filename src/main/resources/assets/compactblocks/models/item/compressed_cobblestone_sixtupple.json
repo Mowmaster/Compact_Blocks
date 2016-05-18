@@ -1,5 +1,5 @@
 {
-  "parent": "bookshelf:block/bookshelf_acacia",
+  "parent": "compactblocks:block/compressed_cobblestone_sixtupple",
   "display": {
     "thirdperson": {
       "rotation": [ 10, -45, 170 ],

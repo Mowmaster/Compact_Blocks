@@ -1,7 +1,7 @@
 package com.mowmaster.compactblocks;
 
-import com.mowmaster.compactblocks.Vanilla.buildingblocks.cbBlocks;
-import com.mowmaster.compactblocks.Vanilla.buildingblocks.cbCompressedCobble;
+import com.mowmaster.compactblocks.block.buildingblocks.cbBlocks;
+import com.mowmaster.compactblocks.block.buildingblocks.cbCompressedCobble;
 import com.mowmaster.compactblocks.events.ModEvents;
 import com.mowmaster.compactblocks.proxies.CommonProxy;
 import net.minecraft.block.Block;
@@ -24,24 +24,31 @@ public class compactblocks
     @Mod.Instance(reference.MODID)
     public static compactblocks instance;
 
-    @SidedProxy(clientSide = reference.CLIENTSIDE, serverSide = reference.SERVERSIDE)
+    @SidedProxy(serverSide = reference.SERVERSIDE, clientSide = reference.CLIENTSIDE)
     public static CommonProxy proxy;
 
     public static Configuration config;
 
     public static Block cbblockscc = new cbCompressedCobble();
+
     @Mod.EventHandler
     public void preInit(FMLPreInitializationEvent event)
     {
         GameRegistry.register(cbblockscc);
         GameRegistry.register(new cbBlocks(cbblockscc, cbCompressedCobble.types,true));
 
+
+
         final Item item = Item.getItemFromBlock(compactblocks.cbblockscc);
 
         for (int meta = 0; meta < 8; meta++)
-            ModelLoader.setCustomModelResourceLocation(item, meta, new ModelResourceLocation("compactblocks:Vanilla/buildingblocks/" + cbCompressedCobble.types[meta], "inventory"));
+            ModelLoader.setCustomModelResourceLocation(item, meta, new ModelResourceLocation("compactblocks:"+ cbCompressedCobble.types[meta], "inventory"));
 
         MinecraftForge.EVENT_BUS.register(this);
+
+
+
+
 
     }
 

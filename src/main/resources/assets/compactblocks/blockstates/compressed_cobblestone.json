@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "variant=compressed": {
+      "model": "compactblocks:compressed_cobblestone"
+    },
+    "variant=double": {
+      "model": "compactblocks:compressed_cobblestone_double"
+    },
+    "variant=tripple": {
+      "model": "compactblocks:compressed_cobblestone_tripple"
+    },
+    "variant=quadrupple": {
+      "model": "compactblocks:compressed_cobblestone_quadrupple"
+    },
+    "variant=quintupple": {
+      "model": "compactblocks:compressed_cobblestone_quintupple"
+    },
+    "variant=sixtupple": {
+      "model": "compactblocks:compressed_cobblestone_sixtupple"
+    },
+    "variant=septupple": {
+      "model": "compactblocks:compressed_cobblestone_septupple"
+    },
+    "variant=octupple": {
+      "model": "compactblocks:compressed_cobblestone_octupple"
+    }
+  }
+}
