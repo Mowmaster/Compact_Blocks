@@ -1,28 +1,28 @@
 {
   "variants": {
     "variant=cobblestone": {
-      "model": "compactblocks:compressed_cobblestone"
+      "model": "compactblocks:cobble/compressed_cobblestone"
     },
     "variant=cobblestone_double": {
-      "model": "compactblocks:compressed_cobblestone_double"
+      "model": "compactblocks:cobble/compressed_cobblestone_double"
     },
     "variant=cobblestone_tripple": {
-      "model": "compactblocks:compressed_cobblestone_tripple"
+      "model": "compactblocks:cobble/compressed_cobblestone_tripple"
     },
     "variant=cobblestone_quadrupple": {
-      "model": "compactblocks:compressed_cobblestone_quadrupple"
+      "model": "compactblocks:cobble/compressed_cobblestone_quadrupple"
     },
     "variant=cobblestone_quintupple": {
-      "model": "compactblocks:compressed_cobblestone_quintupple"
+      "model": "compactblocks:cobble/compressed_cobblestone_quintupple"
     },
     "variant=cobblestone_sixtupple": {
-      "model": "compactblocks:compressed_cobblestone_sixtupple"
+      "model": "compactblocks:cobble/compressed_cobblestone_sixtupple"
     },
     "variant=cobblestone_septupple": {
-      "model": "compactblocks:compressed_cobblestone_septupple"
+      "model": "compactblocks:cobble/compressed_cobblestone_septupple"
     },
     "variant=cobblestone_octupple": {
-      "model": "compactblocks:compressed_cobblestone_octupple"
+      "model": "compactblocks:cobble/compressed_cobblestone_octupple"
     }
   }
 }

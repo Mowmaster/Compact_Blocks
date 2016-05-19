@@ -1,5 +1,5 @@
 {
-  "parent": "compactblocks:block/compressed_cobblestone_quintupple",
+  "parent": "compactblocks:block/cobble/compressed_cobblestone",
   "display": {
     "thirdperson": {
       "rotation": [ 10, -45, 170 ],

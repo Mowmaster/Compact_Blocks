@@ -1,5 +1,6 @@
 package com.mowmaster.compactblocks;
 
+import com.mowmaster.compactblocks.block.buildingblocks.bbReg;
 import com.mowmaster.compactblocks.block.buildingblocks.cbBlocks;
 import com.mowmaster.compactblocks.block.buildingblocks.cbCompressedCobble;
 import com.mowmaster.compactblocks.events.ModEvents;
@@ -30,14 +31,11 @@ public class compactblocks
 
     public static Configuration config;
 
-    public static Block cbblockscc = new cbCompressedCobble();
 
     @Mod.EventHandler
     public void preInit(FMLPreInitializationEvent event)
     {
-        GameRegistry.register(cbblockscc);
-        GameRegistry.register(new cbBlocks(cbblockscc, cbCompressedCobble.types,true));
-
+        bbReg.bbGameReg();
         proxy.preInit();
     }
 

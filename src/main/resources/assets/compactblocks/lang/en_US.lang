@@ -9,3 +9,12 @@ tile.compressed_cobblestone.compressed_cobblestone_quintupple.name=Quintupple Co
 tile.compressed_cobblestone.compressed_cobblestone_sixtupple.name=Sixtupple Compressed Cobblestone
 tile.compressed_cobblestone.compressed_cobblestone_septupple.name=Septupple Compressed Cobblestone
 tile.compressed_cobblestone.compressed_cobblestone_octupple.name=Octupple Compressed Cobblestone
+#Compressed Sand Blocks
+tile.compressed_sand.compressed_sand.name=Compressed Sand
+tile.compressed_sand.compressed_sand_double.name=Double Compressed Sand
+tile.compressed_sand.compressed_sand_tripple.name=Tripple Compressed Sand
+tile.compressed_sand.compressed_sand_quadrupple.name=QuadruppleCompressed Sand
+tile.compressed_sand.compressed_sand_quintupple.name=Quintupple Compressed Sand
+tile.compressed_sand.compressed_sand_sixtupple.name=Sixtupple Compressed Sand
+tile.compressed_sand.compressed_sand_septupple.name=Septupple Compressed Sand
+tile.compressed_sand.compressed_sand_octupple.name=Octupple Compressed Sand

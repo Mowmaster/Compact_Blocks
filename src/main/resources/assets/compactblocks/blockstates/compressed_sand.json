@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "variant=sand": {
+      "model": "compactblocks:sand/compressed_sand"
+    },
+    "variant=sand_double": {
+      "model": "compactblocks:sand/compressed_sand_double"
+    },
+    "variant=sand_tripple": {
+      "model": "compactblocks:sand/compressed_sand_tripple"
+    },
+    "variant=sand_quadrupple": {
+      "model": "compactblocks:sand/compressed_sand_quadrupple"
+    },
+    "variant=sand_quintupple": {
+      "model": "compactblocks:sand/compressed_sand_quintupple"
+    },
+    "variant=sand_sixtupple": {
+      "model": "compactblocks:sand/compressed_sand_sixtupple"
+    },
+    "variant=sand_septupple": {
+      "model": "compactblocks:sand/compressed_sand_septupple"
+    },
+    "variant=sand_octupple": {
+      "model": "compactblocks:sand/compressed_sand_octupple"
+    }
+  }
+}
