@@ -1,15 +1,9 @@
 package com.mowmaster.compactblocks;
 
 import com.mowmaster.compactblocks.block.buildingblocks.bbReg;
-import com.mowmaster.compactblocks.block.buildingblocks.cbBlocks;
-import com.mowmaster.compactblocks.block.buildingblocks.cbCompressedCobble;
 import com.mowmaster.compactblocks.events.ModEvents;
 import com.mowmaster.compactblocks.proxies.CommonProxy;
 import com.mowmaster.compactblocks.recipies.buildingblockRecipies;
-import net.minecraft.block.Block;
-import net.minecraft.client.renderer.block.model.ModelResourceLocation;
-import net.minecraft.item.Item;
-import net.minecraftforge.client.model.ModelLoader;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.common.config.Configuration;
 import net.minecraftforge.fml.common.Mod;
@@ -18,7 +12,6 @@ import net.minecraftforge.fml.common.SidedProxy;
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
-import net.minecraftforge.fml.common.registry.GameRegistry;
 
 @Mod(modid = reference.MODID, name = reference.MODNAME, version = reference.VERSION)
 public class compactblocks
