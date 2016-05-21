@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "variant=sand": {
+      "model": "compactblocks:stone/compressed_stone"
+    },
+    "variant=sand_double": {
+      "model": "compactblocks:stone/compressed_stone_double"
+    },
+    "variant=sand_tripple": {
+      "model": "compactblocks:stone/compressed_stone_tripple"
+    },
+    "variant=sand_quadrupple": {
+      "model": "compactblocks:stone/compressed_stone_quadrupple"
+    },
+    "variant=sand_quintupple": {
+      "model": "compactblocks:stone/compressed_stone_quintupple"
+    },
+    "variant=sand_sixtupple": {
+      "model": "compactblocks:stone/compressed_stone_sixtupple"
+    },
+    "variant=sand_septupple": {
+      "model": "compactblocks:stone/compressed_stone_septupple"
+    },
+    "variant=sand_octupple": {
+      "model": "compactblocks:stone/compressed_stone_octupple"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "variant=sand": {
+      "model": "compactblocks:sdiorite/compressed_sdiorite"
+    },
+    "variant=sand_double": {
+      "model": "compactblocks:sdiorite/compressed_sdiorite_double"
+    },
+    "variant=sand_tripple": {
+      "model": "compactblocks:sdiorite/compressed_sdiorite_tripple"
+    },
+    "variant=sand_quadrupple": {
+      "model": "compactblocks:sdiorite/compressed_sdiorite_quadrupple"
+    },
+    "variant=sand_quintupple": {
+      "model": "compactblocks:sdiorite/compressed_sdiorite_quintupple"
+    },
+    "variant=sand_sixtupple": {
+      "model": "compactblocks:sdiorite/compressed_sdiorite_sixtupple"
+    },
+    "variant=sand_septupple": {
+      "model": "compactblocks:sdiorite/compressed_sdiorite_septupple"
+    },
+    "variant=sand_octupple": {
+      "model": "compactblocks:sdiorite/compressed_sdiorite_octupple"
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "compactblocks:blocks/granite/compressed_granite_sixtupple"
+  }
+}

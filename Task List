@@ -1,19 +1,26 @@
 Task List!
 
+
+[T] Means the texture is done for that block
+[IR] IF REQUESTED I could add this to cb
+[x] Means the block is working in the mod
 ================
 Building Blocks
 ================
+[IR]List: Slabs, Stairs, and Walls.
+If enough people want them or if you bribe me with money via patreon I can add these in.
 
-[]Stone
-[]Granite
-[]Polished Granite
-[]Diorite
-[]Polished Diorite
-[]Andesite
-[]Polished Andesite
-[]Grass
-[]Dirt
-[]Coarse Dirt
+[T]Stone
+[T]Granite
+[T]Polished(smooth) Granite [sgranite]
+[T]Diorite
+[T]Polished Diorite
+[T]Andesite
+[T]Polished Andesite
+[T]Grass  grass= grass_side Tgrass = topgrass  use dirt for bottom texture
+[T]Dirt
+
+[IR]Coarse Dirt
 []Podzol
 [x]Cobblestone
 []Oak Wood Planks
@@ -22,6 +29,7 @@ Building Blocks
 []Jungle Wood Planks
 []Acatia Wood Planks
 []Dark Oak Planks
+
 []Bedrock - YES COMPRESSED BEDROCK!!! (No bedrock recipie in this mod though, im sure someone else has made it somewhere)
 [x]Sand
 []Red Sand
@@ -31,15 +39,17 @@ Building Blocks
 []Coal Ore
 []Oak Wood
 []Spruce Wood
+
 []Birch Wood
 []Jungle Wood
-[]Sponge (Recipie may come later in another mod)
-[]Wet Sponge
+[IR]Sponge
+[IR]Wet Sponge
 []Glass
 []Lapis Lazuli Ore
 []Lapis Lazuli Block
 []Sandstone
 []Chiseled sandstone
+
 []Smooth sandstone
 []Wool
 []Orange Wool
@@ -49,6 +59,7 @@ Building Blocks
 []Lime Wool
 []Pink Wool
 []Grey Wool
+
 []Light Grey Wool
 []Cyan Wool
 []Purple Wool
@@ -58,24 +69,27 @@ Building Blocks
 []Red Wool
 []Black Wool
 []Block Of Gold
+
 []Block Of Iron
-[]Stone Slab?
-[]Sandstone Slab?
-[]Cobblestone slab?
-[]Bricks slab?
-[]Stone Bricks slab?
-[]Nether bricks slab?
-[]Quartz slab?
+[IR]Stone Slab?
+[IR]Sandstone Slab?
+[IR]Cobblestone slab?
+[IR]Bricks slab?
+[IR]Stone Bricks slab?
+[IR]Nether bricks slab?
+[IR]Quartz slab?
 []Bricks
+
 []Book Shelf
 []Moss Stone
 []Obsidian
-[]Oak Wood Stair?
+[IR]Oak Wood Stair?
 []Diamond Ore
 []Block Of Diamond
-[]Cobblestone stairs?
+[IR]Cobblestone stairs?
 []Redstone Ore
 []Ice
+
 []Snow
 []Clay
 []Pumpkin
@@ -103,31 +117,32 @@ Building Blocks
 []Mossy Stone Bricks
 []Cracked stone bricks
 []Melon
-[]Brick Stairs?
-[]Stone Brick Stairs?
+[IR]Brick Stairs?
+[IR]Stone Brick Stairs?
 []Mycelium
 []Netherbrick
-[]Nether brick stairs?
+[IR]Nether brick stairs?
 []Endstone
-[]Oak Wood Slabs?
-[]Spruce wood slab?
-[]Birch wood slab?
-[]Jungle wood slab?
-[]Acatia wood slab?
-[]Dark oak slab?
-[]Sandstone stairs?
+[IR]Oak Wood Slabs?
+[IR]Spruce wood slab?
+[IR]Birch wood slab?
+[IR]Jungle wood slab?
+[IR]Acatia wood slab?
+[IR]Dark oak slab?
+[IR]Sandstone stairs?
 []Emerald Ore
 []Block of Emerald
-[]Spruce wood stairs?
-[]Birch wood stairs?
-[]Jungle wood stairs?
-[]Cobblestone wall?
-[]Mossy cobble wall?
+[IR]Spruce wood stairs?
+[IR]Birch wood stairs?
+[IR]Jungle wood stairs?
+[IR]Cobblestone wall?
+[IR]Mossy cobble wall?
 []Nether Quartz Ore
 []Block of Quartz
 []Chiseled Quartz
 []Pillar Quartz
-[]Quartz stair?
+[IR]Quartz slab?
+[IR]Quartz stair?
 []White stained clay
 []Orange stained clay
 []Magenta stained clay
@@ -146,8 +161,8 @@ Building Blocks
 []Black stained clay
 []Acatia Wood
 []Dark Oak Wood
-[]Acatia wood stairs?
-[]Dark oak stairs?
+[IR]Acatia wood stairs?
+[IR]Dark oak stairs?
 []Prismarine
 []Parismarine Bricks
 []Dark Prismarine
@@ -159,11 +174,11 @@ Building Blocks
 []Red Sandstone
 []Chiseled red sandstone
 []Smooth red sandstone
-[]red sandstone stairs?
-[]red sandstone slab?
+[IR]red sandstone stairs?
+[IR]red sandstone slab?
 []Purpur
 []Purpur Pillar
-[]Purpur stairs?
+[IR]Purpur stairs?
 []Purpur bricks
 []Endstone Bricks
 
