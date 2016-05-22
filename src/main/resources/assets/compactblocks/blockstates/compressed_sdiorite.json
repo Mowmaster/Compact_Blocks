@@ -1,27 +1,27 @@
 {
   "variants": {
-    "variant=sand": {
+    "variant=sdiorite": {
       "model": "compactblocks:sdiorite/compressed_sdiorite"
     },
-    "variant=sand_double": {
+    "variant=sdiorite_double": {
       "model": "compactblocks:sdiorite/compressed_sdiorite_double"
     },
-    "variant=sand_tripple": {
+    "variant=sdiorite_tripple": {
       "model": "compactblocks:sdiorite/compressed_sdiorite_tripple"
     },
-    "variant=sand_quadrupple": {
+    "variant=sdiorite_quadrupple": {
       "model": "compactblocks:sdiorite/compressed_sdiorite_quadrupple"
     },
-    "variant=sand_quintupple": {
+    "variant=sdiorite_quintupple": {
       "model": "compactblocks:sdiorite/compressed_sdiorite_quintupple"
     },
-    "variant=sand_sixtupple": {
+    "variant=sdiorite_sixtupple": {
       "model": "compactblocks:sdiorite/compressed_sdiorite_sixtupple"
     },
-    "variant=sand_septupple": {
+    "variant=sdiorite_septupple": {
       "model": "compactblocks:sdiorite/compressed_sdiorite_septupple"
     },
-    "variant=sand_octupple": {
+    "variant=sdiorite_octupple": {
       "model": "compactblocks:sdiorite/compressed_sdiorite_octupple"
     }
   }

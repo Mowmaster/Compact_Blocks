@@ -1,8 +1,6 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "bottom": "compactblocks:blocks/dirt/compressed_dirt_octupple",
-    "top": "compactblocks:blocks/grass/compressed_tgrass_octupple",
-    "side": "compactblocks:blocks/grass/compressed_grass_octupple"
+    "all": "compactblocks:blocks/grass/compressed_tgrass_octupple"
   }
 }

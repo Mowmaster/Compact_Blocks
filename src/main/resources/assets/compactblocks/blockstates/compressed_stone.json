@@ -1,27 +1,27 @@
 {
   "variants": {
-    "variant=sand": {
+    "variant=stone": {
       "model": "compactblocks:stone/compressed_stone"
     },
-    "variant=sand_double": {
+    "variant=stone_double": {
       "model": "compactblocks:stone/compressed_stone_double"
     },
-    "variant=sand_tripple": {
+    "variant=stone_tripple": {
       "model": "compactblocks:stone/compressed_stone_tripple"
     },
-    "variant=sand_quadrupple": {
+    "variant=stone_quadrupple": {
       "model": "compactblocks:stone/compressed_stone_quadrupple"
     },
-    "variant=sand_quintupple": {
+    "variant=stone_quintupple": {
       "model": "compactblocks:stone/compressed_stone_quintupple"
     },
-    "variant=sand_sixtupple": {
+    "variant=stone_sixtupple": {
       "model": "compactblocks:stone/compressed_stone_sixtupple"
     },
-    "variant=sand_septupple": {
+    "variant=stone_septupple": {
       "model": "compactblocks:stone/compressed_stone_septupple"
     },
-    "variant=sand_octupple": {
+    "variant=stone_octupple": {
       "model": "compactblocks:stone/compressed_stone_octupple"
     }
   }

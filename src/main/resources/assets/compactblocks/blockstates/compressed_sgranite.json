@@ -1,27 +1,27 @@
 {
   "variants": {
-    "variant=sand": {
+    "variant=sgranite": {
       "model": "compactblocks:sgranite/compressed_sgranite"
     },
-    "variant=sand_double": {
+    "variant=sgranite_double": {
       "model": "compactblocks:sgranite/compressed_sgranite_double"
     },
-    "variant=sand_tripple": {
+    "variant=sgranite_tripple": {
       "model": "compactblocks:sgranite/compressed_sgranite_tripple"
     },
-    "variant=sand_quadrupple": {
+    "variant=sgranite_quadrupple": {
       "model": "compactblocks:sgranite/compressed_sgranite_quadrupple"
     },
-    "variant=sand_quintupple": {
+    "variant=sgranite_quintupple": {
       "model": "compactblocks:sgranite/compressed_sgranite_quintupple"
     },
-    "variant=sand_sixtupple": {
+    "variant=sgranite_sixtupple": {
       "model": "compactblocks:sgranite/compressed_sgranite_sixtupple"
     },
-    "variant=sand_septupple": {
+    "variant=sgranite_septupple": {
       "model": "compactblocks:sgranite/compressed_sgranite_septupple"
     },
-    "variant=sand_octupple": {
+    "variant=sgranite_octupple": {
       "model": "compactblocks:sgranite/compressed_sgranite_octupple"
     }
   }

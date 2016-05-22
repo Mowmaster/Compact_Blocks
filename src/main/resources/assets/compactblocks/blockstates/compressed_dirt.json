@@ -1,27 +1,27 @@
 {
   "variants": {
-    "variant=sand": {
+    "variant=dirt": {
       "model": "compactblocks:dirt/compressed_dirt"
     },
-    "variant=sand_double": {
+    "variant=dirt_double": {
       "model": "compactblocks:dirt/compressed_dirt_double"
     },
-    "variant=sand_tripple": {
+    "variant=dirt_tripple": {
       "model": "compactblocks:dirt/compressed_dirt_tripple"
     },
-    "variant=sand_quadrupple": {
+    "variant=dirt_quadrupple": {
       "model": "compactblocks:dirt/compressed_dirt_quadrupple"
     },
-    "variant=sand_quintupple": {
+    "variant=dirt_quintupple": {
       "model": "compactblocks:dirt/compressed_dirt_quintupple"
     },
-    "variant=sand_sixtupple": {
+    "variant=dirt_sixtupple": {
       "model": "compactblocks:dirt/compressed_dirt_sixtupple"
     },
-    "variant=sand_septupple": {
+    "variant=dirt_septupple": {
       "model": "compactblocks:dirt/compressed_dirt_septupple"
     },
-    "variant=sand_octupple": {
+    "variant=dirt_octupple": {
       "model": "compactblocks:dirt/compressed_dirt_octupple"
     }
   }

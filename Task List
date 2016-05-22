@@ -10,15 +10,15 @@ Building Blocks
 [IR]List: Slabs, Stairs, and Walls.
 If enough people want them or if you bribe me with money via patreon I can add these in.
 
-[T]Stone
-[T]Granite
-[T]Polished(smooth) Granite [sgranite]
-[T]Diorite
-[T]Polished Diorite
-[T]Andesite
-[T]Polished Andesite
-[T]Grass  grass= grass_side Tgrass = topgrass  use dirt for bottom texture
-[T]Dirt
+[x]Stone
+[x]Granite
+[x]Polished(smooth) Granite [sgranite]
+[x]Diorite
+[x]Polished Diorite
+[x]Andesite
+[x]Polished Andesite
+[x]Grass  (Uses only top side for texture for now)
+[x]Dirt
 
 [IR]Coarse Dirt
 []Podzol

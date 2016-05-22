@@ -1,27 +1,27 @@
 {
   "variants": {
-    "variant=sand": {
+    "variant=grass": {
       "model": "compactblocks:grass/compressed_grass"
     },
-    "variant=sand_double": {
+    "variant=grass_double": {
       "model": "compactblocks:grass/compressed_grass_double"
     },
-    "variant=sand_tripple": {
+    "variant=grass_tripple": {
       "model": "compactblocks:grass/compressed_grass_tripple"
     },
-    "variant=sand_quadrupple": {
+    "variant=grass_quadrupple": {
       "model": "compactblocks:grass/compressed_grass_quadrupple"
     },
-    "variant=sand_quintupple": {
+    "variant=grass_quintupple": {
       "model": "compactblocks:grass/compressed_grass_quintupple"
     },
-    "variant=sand_sixtupple": {
+    "variant=grass_sixtupple": {
       "model": "compactblocks:grass/compressed_grass_sixtupple"
     },
-    "variant=sand_septupple": {
+    "variant=grass_septupple": {
       "model": "compactblocks:grass/compressed_grass_septupple"
     },
-    "variant=sand_octupple": {
+    "variant=grass_octupple": {
       "model": "compactblocks:grass/compressed_grass_octupple"
     }
   }
