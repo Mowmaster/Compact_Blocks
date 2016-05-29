@@ -21,56 +21,56 @@ If enough people want them or if you bribe me with money via patreon I can add t
 [x]Dirt
 
 [IR]Coarse Dirt
-[]Podzol
+[T]Podzol
 [x]Cobblestone
-[]Oak Wood Planks
-[]Spruce Wood Planks
-[]Birch Wood Planks
-[]Jungle Wood Planks
-[]Acatia Wood Planks
-[]Dark Oak Planks
+[T]Oak Wood
+[T]Spruce Wood
+[T]Birch Wood
+[T]Jungle Wood
+[T]Acatia Wood
+[T]Dark Oak Wood
 
-[]Bedrock - YES COMPRESSED BEDROCK!!! (No bedrock recipie in this mod though, im sure someone else has made it somewhere)
+[IR]Bedrock
 [x]Sand
-[]Red Sand
-[]Gravel
-[]Gold Ore
-[]Iron Ore
-[]Coal Ore
-[]Oak Wood
-[]Spruce Wood
+[T]Red Sand - rsand
+[T]Gravel
+[T]Gold Ore
+[T]Iron Ore
+[T]Coal Ore
+[T]Oak Wood Planks
+[T]Spruce Wood Planks
 
-[]Birch Wood
-[]Jungle Wood
-[IR]Sponge
-[IR]Wet Sponge
-[]Glass
-[]Lapis Lazuli Ore
-[]Lapis Lazuli Block
-[]Sandstone
-[]Chiseled sandstone
+[T]Birch Wood Planks
+[T]Jungle Wood Planks
+[T]Sponge
+[T]Wet Sponge
+[T]Glass
+[T]Lapis Lazuli Ore
+[T]Lapis Lazuli Block
+[T]Sandstone
+[T]Chiseled sandstone - csandstone
 
-[]Smooth sandstone
-[]Wool
-[]Orange Wool
-[]Magenta Wool
-[]Light Blue Wool
-[]Yellow Wool
-[]Lime Wool
-[]Pink Wool
-[]Grey Wool
+[T]Smooth sandstone - ssandstone
+[T]Wool
+[T]Orange Wool
+[T]Magenta Wool
+[T]Light Blue Wool
+[T]Yellow Wool
+[T]Lime Wool
+[T]Pink Wool
+[T]Grey Wool
 
-[]Light Grey Wool
-[]Cyan Wool
-[]Purple Wool
-[]Blue Wool
-[]Brown Wool
-[]Green Wool
-[]Red Wool
-[]Black Wool
-[]Block Of Gold
+[T]Light Grey Wool
+[T]Cyan Wool
+[T]Purple Wool
+[T]Blue Wool
+[T]Brown Wool
+[T]Green Wool
+[T]Red Wool
+[T]Black Wool
+[T]Block Of Gold
 
-[]Block Of Iron
+[T]Block Of Iron
 [IR]Stone Slab?
 [IR]Sandstone Slab?
 [IR]Cobblestone slab?
@@ -78,9 +78,9 @@ If enough people want them or if you bribe me with money via patreon I can add t
 [IR]Stone Bricks slab?
 [IR]Nether bricks slab?
 [IR]Quartz slab?
-[]Bricks
+[T]Bricks
 
-[]Book Shelf
+[]Book Shelf - higher enchanting value???
 []Moss Stone
 []Obsidian
 [IR]Oak Wood Stair?
@@ -99,6 +99,7 @@ If enough people want them or if you bribe me with money via patreon I can add t
 []Jack o' Lantern
 []White glass
 []Orange glass
+
 []Magenta glass
 []Light Blue glass
 []Yellow glass
@@ -108,6 +109,7 @@ If enough people want them or if you bribe me with money via patreon I can add t
 []Light Grey glass
 []Cyan glass
 []Purple glass
+
 []Blue glass
 []Brown glass
 []Green glass
@@ -117,6 +119,7 @@ If enough people want them or if you bribe me with money via patreon I can add t
 []Mossy Stone Bricks
 []Cracked stone bricks
 []Melon
+
 [IR]Brick Stairs?
 [IR]Stone Brick Stairs?
 []Mycelium
@@ -126,6 +129,7 @@ If enough people want them or if you bribe me with money via patreon I can add t
 [IR]Oak Wood Slabs?
 [IR]Spruce wood slab?
 [IR]Birch wood slab?
+
 [IR]Jungle wood slab?
 [IR]Acatia wood slab?
 [IR]Dark oak slab?
@@ -135,6 +139,7 @@ If enough people want them or if you bribe me with money via patreon I can add t
 [IR]Spruce wood stairs?
 [IR]Birch wood stairs?
 [IR]Jungle wood stairs?
+
 [IR]Cobblestone wall?
 [IR]Mossy cobble wall?
 []Nether Quartz Ore
@@ -144,6 +149,7 @@ If enough people want them or if you bribe me with money via patreon I can add t
 [IR]Quartz slab?
 [IR]Quartz stair?
 []White stained clay
+
 []Orange stained clay
 []Magenta stained clay
 []Light Blue stained clay
@@ -153,15 +159,17 @@ If enough people want them or if you bribe me with money via patreon I can add t
 []Gray stained clay
 []Light Gray stained clay
 []Cyan stained clay
+
 []Purple stained clay
 []Blue stained clay
 []Brown stained clay
 []Green stained clay
 []Red stained clay
 []Black stained clay
-[]Acatia Wood
-[]Dark Oak Wood
+[]Acatia Wood Planks
+[]Dark Oak Planks
 [IR]Acatia wood stairs?
+
 [IR]Dark oak stairs?
 []Prismarine
 []Parismarine Bricks
@@ -171,6 +179,7 @@ If enough people want them or if you bribe me with money via patreon I can add t
 []Hardened Clay
 []Block of Coal
 []Packed Ice
+
 []Red Sandstone
 []Chiseled red sandstone
 []Smooth red sandstone
@@ -180,6 +189,7 @@ If enough people want them or if you bribe me with money via patreon I can add t
 []Purpur Pillar
 [IR]Purpur stairs?
 []Purpur bricks
+
 []Endstone Bricks
 
 ==============
